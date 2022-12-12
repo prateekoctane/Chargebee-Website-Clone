@@ -1,7 +1,10 @@
 # Chargebee-Website-Clone
 
 
-This is a Group Project made by all 5 members. We have taken reference from original website that Chargebee.com. We all members made single page.
+This was a Collaborative Project made by me in Masai School. It was 5 days project with 5 members. We used HTML, JS and CSS to make this clone.
+Chargebee is a subscription management
+system which can help you handle all the
+aspects of the subscription life cycle.
 
 <hr>
 
